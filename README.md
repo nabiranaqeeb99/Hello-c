@@ -1,1 +1,1 @@
-# my first c language file
+# C language
