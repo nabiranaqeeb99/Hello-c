@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+#include<stdlib.h>
 #include<math.h>
 int main()
 {
@@ -104,6 +104,6 @@ int main()
         }
          printf("Factorial: %ld\n", fac);
     }
-    getch();
+    system("pause");
     return 0;
 }   
